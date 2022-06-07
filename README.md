@@ -1,2 +1,2 @@
 # homepage
-my first repositpry
+my first release
